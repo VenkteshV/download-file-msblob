@@ -1,6 +1,6 @@
 {
-  "name": "js-file-download",
-  "version": "0.4.1",
+  "name": "download-file-msblob",
+  "version": "1.0.0",
   "description": "Javascript function that triggers browser to save javascript-generated content to a file",
   "main": "file-download.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:kennethjiang/js-file-download.git"
+    "url": "https://github.com/VenkteshV/download-file-msblob.git"
   },
   "keywords": [
     "javascript",
@@ -16,10 +16,5 @@
     "react",
     "download"
   ],
-  "author": "Kenneth Jiang <kenneth.jiang@gmail.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Rhumbix/js-file-download/issues"
-  },
-  "homepage": "https://github.com/Rhumbix/js-file-download"
+  "author": "VenkteshV <venkkratos@gmail.com>"
 }
